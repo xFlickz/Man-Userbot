@@ -1209,7 +1209,7 @@ async def _(event):
 
 CMD_HELP.update(
     {
-        "animasi": f"`{cmd}gabut` ; `{cmd}dino`\
+        "animasi": f"`{cmd}gabut` ; `{cmd}wibu`\
     \nUsage: ntahlah gabut doang.\
     \n\n`{cmd}gombal`\
     \nUsage: buat bercanda\
