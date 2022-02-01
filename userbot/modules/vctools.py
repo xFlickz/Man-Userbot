@@ -67,7 +67,7 @@ async def stop_voice(c):
 
 @man_cmd(pattern="vcinvite")
 async def _(c):
-    xxnx = await edit_or_reply(c, "`Inviting Members to Voice Chat...`")
+    xxnx = await edit_or_reply(c, "`Mengundang temen to Voice Chat...`")
     users = []
     z = 0
     async for x in c.client.iter_participants(c.chat_id):
