@@ -93,7 +93,7 @@ async def _(e):
     await e.edit("BENCI KAMU😈")
 
 
-@bot.on(man_cmd(outgoing=True, pattern=r"dino(?: |$)(.*)"))
+@bot.on(man_cmd(outgoing=True, pattern=r"dinxo(?: |$)(.*)"))
 async def _(typew):
     await typew.edit("`DIN DINNN.....`")
     sleep(1)
