@@ -19,7 +19,7 @@ AFKSTR = [
     f"**Maaf {owner} Sedang OFF!**",
     f"**Maaf {owner} Sedang OFF Tunggu Sampai Online!**",
     f"**{owner} Sedang OFF Tunggulah Sampai Online**",
-    f"**Maaf {owner} Sedang OFF!**",
+    f"**Maaf {owner} Sedang OFF GoBlok!!**",
 ]
 USER_AFK = {}
 afk_time = None
