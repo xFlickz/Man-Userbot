@@ -15,7 +15,7 @@ async def _(event):
         await event.client.send_file(event.chat_id, response["url"])
         await event.delete()
     except Exception:
-        await event.edit("**Tidak bisa menemukan video asupan.**")
+        await event.edit("**Gue ga bisa menemukan video asupan.**")
 
 
 @man_cmd(pattern="wibu$")
@@ -25,7 +25,7 @@ async def _(event):
         await event.client.send_file(event.chat_id, response["url"])
         await event.delete()
     except Exception:
-        await event.edit("**Tidak bisa menemukan video wibu.**")
+        await event.edit("**Hadehh @XFlick gabisa menemukan video wibu.**")
 
 
 @man_cmd(pattern="chika$")
