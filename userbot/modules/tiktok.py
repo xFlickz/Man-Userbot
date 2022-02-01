@@ -25,7 +25,7 @@ async def _(event):
     else:
         return await edit_delete(
             event,
-            "**Berikan Link Tiktok Pesan atau Reply Link Tiktok Untuk di Download**",
+            "**Berikan Link Tiktok Pesan atau Reply Link Tiktok Untuk di Download >>> Owner @XFlick**",
         )
     xx = await edit_or_reply(event, "`Video Sedang Diproses...`")
     chat = "@thisvidbot"
