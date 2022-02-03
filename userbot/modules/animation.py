@@ -1231,7 +1231,7 @@ CMD_HELP.update(
     \nUsage: liat sendiri.\
     \n\n`{cmd}nah` ; `{cmd}huh` ; `{cmd}owner`\
     \nUsage: cobain.\
-    \n\n`{cmd}bunga` ; `{cmd}buah`\
+    \n\n`{cmd}bunga` ; `{cmd}buaxh`\
     \nUsage: animasi.\
     \n\n`{cmd}waktu`\
     \nUsage: animasi.\
